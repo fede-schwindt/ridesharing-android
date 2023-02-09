@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482104240102",
+    "firebase_url": "https://flytaxi-642d4-default-rtdb.firebaseio.com",
+    "project_id": "flytaxi-642d4",
+    "storage_bucket": "flytaxi-642d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482104240102:android:e99c477c4f6b0a1aacd827",
+        "android_client_info": {
+          "package_name": "com.hypertrack.ridesharing.driver.android.github"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482104240102-0bgoquma42h89rbmo9hcfc2uclkg97lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC39benp2ZMEMwS1xuz3PGJYNEtDHpcOco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482104240102-0bgoquma42h89rbmo9hcfc2uclkg97lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
